@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a gym website<br>🌱 I’m currently learning Laravel, cybersecurity, and React<br>⚡ Fun fact: I am 16<br>📫 How to reach me: yoyospaceomar010100@gmail.com
+🔭 I’m currently working on a gym website<br>🌱 I’m currently learning Laravel, cybersecurity, and React<br>⚡ Fun fact: I am 17<br>📫 How to reach me: yoyospaceomar010100@gmail.com
 
 
 ## 🌐 Socials:
